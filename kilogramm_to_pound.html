@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Converter kilos to pounds or pounds to kilos</title>
+
+	<script type="text/javascript">
+		
+		function converter(unit1, rate, unit2)
+
+		{
+
+			var value = prompt("enter the value to convert in " + unit1);
+						var result = value * rate;
+						alert(value + ' ' + unit1 + '\n' + result + ' ' + unit2);
+										
+		}
+
+   </script>
+
+
+
+</head>
+
+
+
+<body>
+
+	<h1>Converter kilos to pounds or pounds to kilos</h1>
+
+	<p><img src="ktol.png" alt="log" ondblclick="converter('kg', 2.20462, 'lbs');" /> </p>
+	<p><a href="#" onclick="converter('kilos', 2.20462, 'pounds');" >convert kilo to pounds</a></p>
+
+	<p><img src="ltok.png" alt="log2" ondblclick="converter('pounds', 0.453592, 'kg');" /></p>
+	<p><a href="#" onclick="converter('pounds', 0.453592, 'kg');" />convert pounds to kilo</a></p>
+	
+
+</body>
+</html>

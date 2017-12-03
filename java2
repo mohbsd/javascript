@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Java2 page</title>
+  </head>
+
+  <body>
+
+  	<h1>This is Sparta !!!</h1>
+  	<img src="sparta.jpg" alt="sparta pic" ondblclick="alert('this is spartaaa !!!');"/>
+
+  	<script type="text/javascript">
+  		alert('voulez vous charger la page')
+  	</script>
+    <p>
+    	Need to unlock a door? Disarm an enemy? Fix a broken object? There’s a spell for that! In the Harry Potter universe,<br> there is a spell to fulfil any need, from the everyday to the extraordinary. Below is a list of spells that are most <br>commonly used. (Note that the spells included are ones that occur in cannon, not the movies.)<br>
+		Accio: Summoning Charm; used to summon objects toward the caster (usually from a long distance)<br>
+		Aguamenti: produces a jet of water from the caster’s wand<br>
+		Alohomora: used to unlock and open doors<br>
+		Avada Kedavra: the Killing Curse; causes a green flash of light; Harry Potter is the only known survivor of this curse;<br> one of three Unforgivable Curses banned by the Ministry of Magic<br>
+		Bat-Bogey Hex: causes the victim’s bogies to enlarge, grow wings, and attack the victim<br>
+		Bubble-Head Charm: creates a bubble of air around the caster’s head and mouth, acting as a breathing apparatus<br>
+		Caterwauling Charm: causes a loud, high-pitched shrieking noise when encountered<br>
+		Cheering Charm: causes the person upon whom the spell has been cast to become happy and content<br>
+		Colloportus: used to magically lock a door and prevent it from being opened by non-magical means<br>
+		Confringo: Blasting Charm; causes items the charm comes in contact with to burst into flames<br>
+		Confundo: Confundus Charm; causes the victim to become confused and disoriented<br>
+		Crucio: causes the victim extreme pain; one of three Unforgivable Curses banned by the Ministry of Magic<br>
+    </p>
+
+    <script type="text/javascript">
+    	
+    	alert('bonne lecture ;)')
+
+    </script>
+
+  </body>
+</html>
