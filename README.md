@@ -1,2 +1,2 @@
-# javascript
+# javascript_archives
 scripts
